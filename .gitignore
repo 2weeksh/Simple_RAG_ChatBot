@@ -1,0 +1,14 @@
+# API 키 파일
+.env
+
+# 파이썬 가상환경 폴더
+venv/
+.conda/
+rag_chatbot_project/
+
+# 파이썬 캐시 파일
+__pycache__/
+*.pyc
+
+# Jupyter Notebook 캐시
+.ipynb_checkpoints/
