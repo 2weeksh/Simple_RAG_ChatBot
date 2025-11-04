@@ -7,4 +7,5 @@
 
 ## 실행 방법
 1.  `.env` 파일에 `GOOGLE_API_KEY`를 설정합니다.
-2.  `chatbot.ipynb` (또는 `.py` 파일)을 실행합니다.
+2.  `PDF_FILE_PATH` 에 pdf 파일 경로를 입력합니다.
+3.  `chatbot.ipynb` (또는 `.py` 파일)을 실행합니다.
