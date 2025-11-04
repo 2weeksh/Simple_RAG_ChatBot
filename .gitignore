@@ -12,3 +12,11 @@ __pycache__/
 
 # Jupyter Notebook 캐시
 .ipynb_checkpoints/
+
+# 파이썬 파일들
+chatbot.py
+db_manager.py
+main.py
+
+# 과제 pdf 파일
+2025 10 (공유) 강원대 중간 고사 내용.pdf
