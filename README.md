@@ -5,6 +5,14 @@
 ## 프로젝트 소개
 과제 안내 PDF 파일의 내용을 RAG로 학습하고, Google의 Gemini 모델을 LLM으로 사용하여 과제에 대한 질문에 답변하는 챗봇입니다.
 
+## 프로젝트 목표
+RAG의 기본 원리를 이해하고, langchain을 학습하고 간단한 챗봇을 직접 구현해보는 것을 목표로 했습니다.
+
+## 사용 기술
+- Python
+- Langchain
+- Gemini API
+  
 ## 실행 방법
 1.  `.env` 파일에 `GOOGLE_API_KEY`를 설정합니다.
 2.  `PDF_FILE_PATH` 에 pdf 파일 경로를 입력합니다.
